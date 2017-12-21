@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zlingo/Spel.cs">
+    <Files>
+      <File FileName="Zlingo/LCD.cs" Line="1" Column="1" />
+      <File FileName="Zlingo/App.xaml.cs" Line="56" Column="17" />
+      <File FileName="Zlingo/project.json" Line="1" Column="1" />
+      <File FileName="Zlingo/SocketClient.cs" Line="1" Column="1" />
+      <File FileName="Zlingo/SocketServer.cs" Line="1" Column="1" />
+      <File FileName="Zlingo/Spel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
